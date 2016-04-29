@@ -1,5 +1,17 @@
 {
-  "apps": [
-
-  ]
+    "apps": [
+             {
+                "serverURL": "http://zwallet.azurewebsites.net/parse",
+                "appId": "pRazeBROt9cH50Lto2gystV5gK5Uek1H1VOoULc4",
+                "masterKey": "H8KvGay1LKFJN3sOo5GYWo3WQVp5yP0t4Pq5c8bP",
+                "appName": "zWallet"
+             }
+            ],
+    
+    "users":[
+              {
+                "user":"admin",
+                "pass":"admin"
+              }
+            ]
 }
